@@ -1,0 +1,6 @@
+C:\sai\dev\cloud\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\sai\dev\cloud\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\sai\dev\cloud\Common\bin\Debug\Common.dll
+C:\sai\dev\cloud\Common\bin\Debug\Common.pdb
+C:\sai\dev\cloud\Common\obj\Debug\Common.dll
+C:\sai\dev\cloud\Common\obj\Debug\Common.pdb
